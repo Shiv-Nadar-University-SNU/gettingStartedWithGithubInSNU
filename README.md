@@ -1,6 +1,8 @@
 # Welcome to Github.
 # Getting started with Github
 
+## We will be learning the basic commands of git and terms about github
+
 ## Submission Procedure
 Read the following steps and guidelines properly for proper understanding of the basics of Github. It will help further while making project submission for Code Innovation Series. 
 

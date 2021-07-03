@@ -1,4 +1,4 @@
-# Getting started with Githu
+# Getting started with Github
 
 ## Submission Procedure
 Read the following steps and guidelines properly for proper understanding of the basics of Github. It will help further while making project submission for Code Innovation Series. 

@@ -1,2 +1,2 @@
 Suchit Reddi
-Information Security Student
+Cyber Security Student
